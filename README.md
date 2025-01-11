@@ -1,4 +1,4 @@
-# Fruit-Vegetable-Classifier
+# ![Fruit Classifier Logo]("C:\Users\Imtiaz\Downloads\Compressed\Fruit Classification\cover.jpg") Fruit-Vegetable-Classifier
 A Deep Learning model designed to classify images of fruits and vegetables into their respective categories. This repository contains a pre-trained model, a Jupyter notebook demonstrating the training process, and a Gradio-powered web interface for testing the classifier.
 
 ## Table of Contents
