@@ -16,8 +16,8 @@ This projects utilizes the power of CNN (Convolutional Neural Network) to Classi
 
 ## Usage
 - Download the folder and enjoy
-- Ensure that the pre-trained [`custom_cnn_model.h5`] file is in the project directory
-- Run the [`classify.py`] file to launch the web-interface and enjoy the app
+- Ensure that the pre-trained `custom_cnn_model.h5` file is in the project directory
+- Run the `classify.py` file to launch the web-interface and enjoy the app
    
 ## Features
 - Custom pre-trained model for quick use on classification task
