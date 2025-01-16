@@ -4,7 +4,7 @@ from tensorflow.keras.preprocessing import image
 import gradio as gr
 
 # Load your model
-model = tf.keras.models.load_model("custom_cnn_model.h5")
+model = tf.keras.models.load_model("Fruit-Vegetable-Classifier/custom_cnn_model.h5")
 
 # Class Names
 class_map = [
@@ -37,6 +37,7 @@ interface = gr.Interface(
     fn=prediction, 
     inputs=gr.Image(type="filepath"),
     outputs="text", 
+    allow_flagging="never",
     title="Vegetable & Fruit Classifer",
     examples=sample_images,
     description="Upload image of any vegetable or furit to classify.\n\n ![Vegetable GIF](https://media.giphy.com/media/LrY6OiICHS1TWZpGkf/giphy.gif)"
