@@ -24,6 +24,11 @@ This projects utilizes the power of CNN (Convolutional Neural Network) to Classi
 - Jupyter notebook to demonstrate the whole process of model training and testing
 - Gradio web interface for easy testing and interaction   
 
+## Installation
+- For pip installation use command `pip install -r requirements.txt`
+- For conda installation use command `conda install --file requirements.txt`
+- Make sure to run the commands in administrator mode to avoid any issue.
+
 ## Model Info
 - Achieved an accuracy of 93% on test dataset
 - Model was trained for 40 epochs
