@@ -12,7 +12,7 @@ A Deep Learning model designed to classify images of fruits and vegetables into 
 
 ## Introduction
 This projects utilizes the power of CNN (Convolutional Neural Network) to Classify between fruit and vegetable across 36 different classes. This project utilized the power of custom cnn model to classify between fruit and vegetable. 
-[Dataset](https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition))
+[Dataset](https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition)
 
 ## Usage
 - Download the folder and enjoy
