@@ -42,4 +42,4 @@ interface = gr.Interface(
     description="Upload image of any vegetable or furit to classify."
 )
 #interface.launch()
-interface.launch(server_name="0.0.0.0", debug=True)
+interface.launch(server_name="0.0.0.0")
