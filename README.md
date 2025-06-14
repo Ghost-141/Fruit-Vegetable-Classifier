@@ -6,7 +6,7 @@ A Deep Learning model designed to classify images of fruits and vegetables into 
 - [Usage](#usage)
 - [Features](#features)
 - [Installation](#installation)
-- [Model Info](#model-training)
+- [Model Info](#model-info)
 - [Future Work](#future-work)
 
 ## Introduction
