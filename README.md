@@ -36,9 +36,9 @@ To test the app using docker file to use the following instrctions:
 - Use the following command to build and run the docker image:
 ```bash
 docker build -t app_name .
-docker run -p port_name:7860 classifier
+docker run -p port_no:7860 classifier
 ```
-- open any browser and go to http://localhost:port_name to perform inference
+- open any browser and go to http://localhost:port_no to perform inference
 
 ## Model Info
 - Achieved an accuracy of 93% on test dataset
